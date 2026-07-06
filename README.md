@@ -14,16 +14,7 @@ The framework follows a systematic investigation methodology that begins with co
 One of the primary objectives of this project is to demonstrate practical cybersecurity investigation skills using publicly available forensic tools, online intelligence sources, and manual analysis techniques. The project emphasizes careful evidence handling, structured documentation, and repeatable investigative procedures that align with professional security operations workflows. Every step of the investigation is designed to preserve the integrity of the evidence while providing a clear explanation of how each finding contributes to the final assessment.
 
 Throughout the investigation process, multiple technical aspects of email communication are examined, including SMTP transmission paths, Received headers, Message-ID values, Return-Path information, Reply-To manipulation, MIME encoding, authentication records, and mail server configurations. These artifacts provide critical insight into how an email traveled across the Internet and whether any part of the message has been spoofed, altered, or intentionally crafted to deceive recipients.
-
-The project also focuses on identifying common phishing techniques such as domain impersonation, homoglyph attacks, display name spoofing, malicious hyperlinks, shortened URLs, credential harvesting pages, social engineering tactics, urgent language, fake invoices, fraudulent payment requests, and malicious file attachments. By recognizing these patterns, analysts can better understand attacker behavior and improve their ability to detect future phishing campaigns.
-
-In addition to technical analysis, the framework includes structured documentation and reporting practices that mirror professional incident response procedures. Investigation findings are organized into detailed reports containing observed indicators, forensic evidence, risk assessments, recommendations, and remediation guidance. These reports are intended to support security teams in communicating investigation results to technical staff, management, and other stakeholders.
-
-The modular nature of the project allows additional investigation modules to be incorporated over time, making the framework extensible and suitable for continuous learning. Future enhancements may include automated IOC extraction, threat intelligence integration, YARA scanning, VirusTotal API integration, sandbox analysis, machine learning-based phishing detection, and SIEM integration to further strengthen investigative capabilities.
-
-From a software engineering perspective, the project demonstrates modular architecture, structured workflows, evidence preservation, automation concepts, and professional documentation practices. From a cybersecurity perspective, it highlights practical skills in email security, phishing analysis, digital forensics, threat intelligence, incident response, and security operations.
-
-This project serves as an excellent portfolio demonstration for aspiring and experienced cybersecurity professionals by showcasing the ability to investigate phishing attacks using a methodical, evidence-based approach. It reflects the investigative mindset and technical competencies expected in modern Security Operations Centers (SOCs) and enterprise incident response teams while reinforcing best practices in email security and cyber threat analysis.
+ threat analysis.
 
 # 📧 Phishing Email Investigation
 
