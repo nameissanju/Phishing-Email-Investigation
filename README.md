@@ -1,12 +1,5 @@
 
 
-The framework follows a systematic investigation methodology that begins with collecting suspicious email samples and progresses through multiple phases of analysis, including email header examination, sender verification, SPF/DKIM/DMARC validation, IP address reputation analysis, URL inspection, domain intelligence gathering, attachment examination, malware detection, and report generation. Each phase contributes valuable evidence that helps determine the legitimacy of the email while documenting indicators of compromise (IOCs) for future threat intelligence and defensive improvements.
-
-One of the primary objectives of this project is to demonstrate practical cybersecurity investigation skills using publicly available forensic tools, online intelligence sources, and manual analysis techniques. The project emphasizes careful evidence handling, structured documentation, and repeatable investigative procedures that align with professional security operations workflows. Every step of the investigation is designed to preserve the integrity of the evidence while providing a clear explanation of how each finding contributes to the final assessment.
-
-Throughout the investigation process, multiple technical aspects of email communication are examined, including SMTP transmission paths, Received headers, Message-ID values, Return-Path information, Reply-To manipulation, MIME encoding, authentication records, and mail server configurations. These artifacts provide critical insight into how an email traveled across the Internet and whether any part of the message has been spoofed, altered, or intentionally crafted to deceive recipients.
- threat analysis.
-
 # 📧 Phishing Email Investigation
 
 > A practical cybersecurity project focused on analyzing phishing emails, identifying indicators of compromise (IOCs), examining email headers, investigating malicious URLs and attachments, and documenting findings using industry-standard incident response techniques.
