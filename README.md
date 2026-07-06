@@ -1,13 +1,4 @@
-# Phishing-Email-Investigation
-**Phishing Email Investigation** is a SOC-focused cybersecurity project that analyzes suspicious emails through header inspection, SPF/DKIM/DMARC validation, URL and attachment analysis, IOC extraction, and threat intelligence correlation. It maps finding to the MITRE ATT&amp;CK framework and documents incidents with professional investigation reports.
 
-# 📌 Overview
-
-The **Phishing Email Investigation** project is a comprehensive cybersecurity investigation framework designed to analyze suspicious emails, identify phishing indicators, and document evidence using industry-standard digital forensic and email analysis techniques. The project demonstrates a structured approach to investigating potentially malicious email messages by examining email headers, sender information, authentication mechanisms, embedded URLs, attachments, and message content to determine whether an email represents a legitimate communication or a phishing attempt.
-
-Phishing remains one of the most common initial attack vectors used by cybercriminals to compromise organizations and individuals. Attackers frequently impersonate trusted organizations, financial institutions, government agencies, cloud service providers, and well-known companies in an attempt to steal credentials, distribute malware, or conduct financial fraud. As phishing campaigns continue to evolve, security analysts must be capable of performing detailed investigations to identify malicious indicators and support incident response activities.
-
-This project simulates the workflow performed by **Security Operations Center (SOC) Analysts**, **Incident Responders**, **Digital Forensics Investigators**, and **Threat Analysts** during real-world phishing investigations. Rather than relying solely on automated detection tools, the investigation process focuses on manual analysis and evidence collection, enabling analysts to understand how phishing attacks operate and how to identify them accurately.
 
 The framework follows a systematic investigation methodology that begins with collecting suspicious email samples and progresses through multiple phases of analysis, including email header examination, sender verification, SPF/DKIM/DMARC validation, IP address reputation analysis, URL inspection, domain intelligence gathering, attachment examination, malware detection, and report generation. Each phase contributes valuable evidence that helps determine the legitimacy of the email while documenting indicators of compromise (IOCs) for future threat intelligence and defensive improvements.
 
