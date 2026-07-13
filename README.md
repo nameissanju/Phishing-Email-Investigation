@@ -17,7 +17,7 @@ Phishing remains one of the most common cyberattacks used to steal sensitive inf
 
 The **Phishing Email Investigation** project demonstrates the complete process of analyzing suspicious emails from a Security Operations Center (SOC) perspective. The investigation includes examining email headers, sender authentication records, embedded URLs, attachments, Indicators of Compromise (IOCs), and attacker techniques while documenting every finding in a professional incident report.
 
-This repository is designed for cybersecurity students, SOC analysts, digital forensics enthusiasts, blue team professionals, and anyone looking to improve practical email investigation skills.'
+This repository is designed for cybersecurity students, SOC analysts, digital forensics enthusiasts, blue team professionals, and anyone looking to improve practical email investigation skills.
 
 ---
 
