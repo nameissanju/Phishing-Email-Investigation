@@ -81,7 +81,7 @@ The investigation follows a structured SOC methodology.
 - Obtain the suspicious email
 - Preserve evidence
 - Export as .eml or .msg
-- Calculate hashes if required
+- Calculate hashes if required/
 
 ---
 
