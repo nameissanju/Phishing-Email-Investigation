@@ -23,7 +23,7 @@ This repository is designed for cybersecurity students, SOC analysts, digital fo
 
 # 🎯 Objectives
 
-The primary objectives of this project are:
+The primary objectives of this project are: 
 
 - Analyze suspicious phishing emails
 - Investigate email headers
